@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+out/
+
+# Build folders
+build/
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# Game runtime file (created by the game itself)
+highscore.txt
